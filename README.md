@@ -1,4 +1,3 @@
 # hello-world
-Hi!
-I'm Ipek. I live in Austin for now. Austin is awsome city. 
-I like nature and there is a lots park here. So I think here is the best place for me!
+Hi!!
+I'm Ipek Kaya and a civil engineer. But I interested the computer science. Once time I had used the Visual Basic when I was studying university. I am excited to learn more about the computer science!!
